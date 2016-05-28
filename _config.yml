@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:               Lanyon
@@ -14,7 +14,7 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Chaochen Wang
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
