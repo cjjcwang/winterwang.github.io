@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: [test,试验]
 ---
-{% include JB/setup %}
 
 第一次上传文件
 
