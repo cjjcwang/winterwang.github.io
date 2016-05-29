@@ -4,12 +4,17 @@
 
 #relative_permalinks: true
 
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge # changed from `pygments` as github says so
+  
 # Setup
 title:               Chaochen Wang | 王超辰
 tagline:             'Be ambitious'
 description:         
 url:                 winterwang.github.io
-baseurl:             ''
+baseurl:             '/ '
 paginate:            5
 future:              true
 gems:
@@ -25,8 +30,10 @@ author:
   name:              Chaochen Wang
   url:               https://twitter.com/outyousin
   email:             abelardccwang@gmail.com
-
-
+  github:            winterwang
+  google_scholar:    https://scholar.google.co.jp/citations?user=0J-5evgAAAAJ&hl=en
+  disqus_shortname: patricksteadman
+ 
 
 ## sidebar links:
 # For external links add external: true
