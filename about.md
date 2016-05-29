@@ -16,7 +16,7 @@ I am now working as an assitant professor at [Aichi Medical University](http://w
 
 〒480-1195 愛知県長久手市岩作雁又1-1
 
-Phone:	0561-62-3311（内線/ext.：12389）
+Phone:	0561-62-3311（内線/ext.：12389）  
 Fax:	  0561-62-5270  
 E-mail:	abelardccwang@gmail.com
 
