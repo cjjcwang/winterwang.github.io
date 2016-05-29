@@ -6,7 +6,7 @@
 
 
 # Dependencies
-markdown:         redcarpet
+#markdown:         redcarpet
 highlighter:      rouge # changed from `pygments` as github says so
   
 # Setup

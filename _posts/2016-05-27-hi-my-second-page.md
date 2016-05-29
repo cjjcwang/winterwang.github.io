@@ -4,6 +4,7 @@ title: "HI my second page"
 description: ""
 category: 
 tags: [test,试验]
+comments: true
 ---
 
 第一次上传文件
