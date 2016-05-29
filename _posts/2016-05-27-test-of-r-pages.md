@@ -58,7 +58,7 @@ plot(pressure)
 {% endhighlight %}
 
 
-![plot of chunk pressure](http://winterwang.github.io/assets/pressure-1.png)
+![plot of chunk pressure](http://winterwang.github.io/image/pressure.png)
 
 
 ## Generate a table
