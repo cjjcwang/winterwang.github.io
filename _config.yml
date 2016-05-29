@@ -14,15 +14,9 @@ title:               Chaochen Wang | 王超辰
 tagline:             'Be ambitious'
 description:         
 url:                 winterwang.github.io
-baseurl:             '/ '
+baseurl:             '/'
 paginate:            5
 future:              true
-gems:
-  - jekyll-paginate
-  - jemoji
-  - font-awesome-sass
-  - kramdown
-  - rouge
 
 
 # About/contact
