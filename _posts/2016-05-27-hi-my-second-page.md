@@ -3,11 +3,11 @@ layout: post
 title: "HI my second page"
 description: ""
 category: 
-tags: [test,试验]
+tags: [test,试验, ]
 comments: true
 ---
 
-第一次上传文件
+第一次上传(push)文件
 
 我的名字叫做王超辰。
 正在尝试用github & jekyll管理维护自己的主页。

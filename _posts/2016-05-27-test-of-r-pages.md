@@ -3,7 +3,7 @@ layout: post
 title: "test of R pages"
 description: ""
 category: 
-tags: []
+tags: [test, R, rstudio, markdown]
 ---
 
 

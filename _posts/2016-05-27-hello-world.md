@@ -4,7 +4,7 @@ title: "Hello World"
 description: "第一次上传文件"
 mathjax: true
 category: 
-tags: []
+tags: [test, mathjax]
 ---
 
 
