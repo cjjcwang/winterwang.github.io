@@ -8,7 +8,7 @@ tags:
   - papers
   - articles
   - research
-comments: true
+comments: false
 modified: "2016-05-30"
 bibtex: "https://winterwang.github.io/files/mypubs.bib"
 show_meta: true
@@ -21,7 +21,7 @@ style: |
 ---
 
 
-## My publications: 
+## In Journals: 
 
 1. ***Wang C***, Yatsuya H, Nihashi T, Muramatsu T, Tamakoshi K, Li YY, et al. Positive Association between blood C3 Level and Liver Fat Content Quantified by 1H Magnetic Resonance Spectroscopy in Japanese Men. Int J Obesity. 2011;35:S34–S34. _[This is a conference abstract.]_
 
