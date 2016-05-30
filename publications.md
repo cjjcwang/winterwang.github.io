@@ -1,5 +1,5 @@
 ---
-layout: publ
+layout: page
 category: mypubs
 title: "Publications"
 published: true
