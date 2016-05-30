@@ -15,3 +15,7 @@ comments: true
 * [文献検索３ー５月１９日, About Zotero](http://rpubs.com/winterwang/seminar_slides3)
 
 * [文献検索４ー５月２６日, Critical appraisal of the literature](http://rpubs.com/winterwang/seminar_slides4)
+
+#### 会議発表
+* [平成27年度加藤班第2回班会議, Comparison of Urine _H.pylor_ Antibody Test Methods-Urinelisa and Rapirun](http://rpubs.com/winterwang/sapporo)
+
