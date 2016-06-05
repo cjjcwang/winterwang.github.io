@@ -15,7 +15,7 @@ tags: [R, leaflet, interactive, 日本人口]
 
 1. 日本都道府県地図データ(.shape)を[入手する](http://www.gadm.org/download)；
 2. 人口動態データを入手し，地図データと結合する；
-3. 必要なパッケージ`leaflet, maps, rgdal`により，塗り分け地図を描く．
+3. 必要なパッケージ`leaflet, rgdal`により，塗り分け地図を描く．
 
 
 ### 地図データを[Global Administrative Areas](http://www.gadm.org/country)からダウロード：
@@ -30,7 +30,7 @@ tags: [R, leaflet, interactive, 日本人口]
 library(leaflet)
 library(rgdal)
 #ダウロードした地図ファイルの保存先を決める"JPN_adm1.shp; JPN_adm1.dbf; JPN_adm1.shx"の３つだけをそこに置く
-dns <- "/media/ccwang-letsnote/Windows/Users/Chaochen_Wang/Dropbox/github_projects/winterwang.github.io/files/" # <- 自分の保存先のアドレスに変える
+dns <- "/github_projects/winterwang.github.io/files/" # <- 自分の保存先のアドレスに変える
 # Shape ファイルを認識させる：
 fn <- list.files(dns, pattern = ".shp", full.names = FALSE)
 fn <- gsub(".shp","",fn)
@@ -42,7 +42,7 @@ shape <- readOGR(dns, fn)
 {% highlight r %}
 
 ## OGR data source with driver: ESRI Shapefile
-## Source: "/media/ccwang-letsnote/Windows/Users/Chaochen_Wang/Dropbox/github_projects/winterwang.github.io/files/", layer: "JPN_adm1"
+## Source: "/github_projects/winterwang.github.io/files/", layer: "JPN_adm1"
 ## with 47 features
 ## It has 12 fields
 {% endhighlight %}
@@ -72,9 +72,9 @@ leaflet(shape) %>% addTiles() %>%
 
 
 {% highlight r %}
-library(reshape2)
+library(reshape2) # for data manipulation
 #Excelなどで不要な部分を削除しデータファイルを作業するフォルダに置く"population.csv"
-population <- read.csv("/media/ccwang-letsnote/Windows/Users/Chaochen_Wang/Dropbox/github_projects/winterwang.github.io/files/population.csv", header  = TRUE, colClasses = "character")
+population <- read.csv("github_projects/winterwang.github.io/files/population.csv", header  = TRUE, colClasses = "character")
 
 str(population)
 {% endhighlight %}
@@ -123,7 +123,7 @@ names(population) <- c("Pref_n", "NL_NAME_1", "Year", "Sex", "Population")
 pop_all2014 <- subset(population, Year == "2014")
 pop_all2014 <- subset(pop_all2014, Pref_n != "0") #全国人口の行を削除する
 pop_all2014 <- pop_all2014[, -1]
-pop_all2014.w <- dcast(pop_all2014, NL_NAME_1 ~ Sex, value.var="Population")
+pop_all2014.w <- dcast(pop_all2014, NL_NAME_1 ~ Sex, value.var="Population") # データの形をlongからwide変形する．
 
 head(pop_all2014.w)#県の名前の最後に”県”がない
 {% endhighlight %}
