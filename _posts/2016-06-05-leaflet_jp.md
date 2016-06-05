@@ -9,7 +9,7 @@ tags: [R, leaflet, interactive, 日本人口]
 
 
 
-日本を人口動態データを結合したinteractiveな塗り分け地図を`leaflet`のパッケージを利用して描く．
+日本の人口動態データと結合したinteractiveな塗り分け地図を`leaflet`のパッケージを利用して描く．
 
 流れは以下：  
 
