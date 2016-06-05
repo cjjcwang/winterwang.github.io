@@ -12,6 +12,7 @@ tags: [R, leaflet, interactive, 日本人口]
 日本を人口動態データを結合したinteractiveな塗り分け地図を`leaflet`のパッケージを利用して描く．
 
 流れは以下：  
+
 1. 日本都道府県地図データ(.shape)を[入手する](http://www.gadm.org/download)；
 2. 人口動態データを入手し，地図データと結合する；
 3. 必要なパッケージ`leaflet, maps, rgdal`により，塗り分け地図を描く．
@@ -64,9 +65,10 @@ leaflet(shape) %>% addTiles() %>%
 ### 人口動態データのダウロード：
 人口動態データはいくつかのサイトから入手することが可能だが，今回は[**がん登録・統計**](http://ganjoho.jp/reg_stat/statistics/dl/index.html)の公開したデータを利用する．
 ５番目の**"都道府県別死亡データ"**の項目における，**全がん死亡数・粗死亡率・年齢調整死亡率**のExcelファイルをダウロードする．
-ファイルの中身をチェックしてみると：
+ファイルの中身をチェックしてみると：  
 ①のpopの中にある②全年齢の人口データをRのな中読み込んいけばよい．
-![pop](/media/ccwang-letsnote/Windows/Users/Chaochen_Wang/Dropbox/github_projects/winterwang.github.io/image/pop.png)
+![pop](http://winterwang.github.io/image/pop.png)
+
 
 
 {% highlight r %}
