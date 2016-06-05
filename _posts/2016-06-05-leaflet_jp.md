@@ -1,4 +1,13 @@
-# 日本の塗り分け地図を描く
+---
+layout: post
+title: "日本の塗り分け地図を描く"
+mathjax: true
+comments: true
+category: R
+tags: [R, leaflet, interactive, 日本人口]
+---
+
+
 
 日本を人口動態データを結合したinteractiveな塗り分け地図を`leaflet`のパッケージを利用して描く．
 
