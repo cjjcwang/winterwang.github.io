@@ -1,6 +1,14 @@
-# 日本の塗り分け地図を描く
+---
+layout: post
+title: "日本の塗り分け地図を描く"
+mathjax: true
+comments: true
+category: R
+tags: [R, REmap, interactive]
+---
 
-日本を人口動態データを結合したinteractiveな塗り分け地図を`leaflet`のパッケージを利用して描く．
+
+日本を人口動態データを結合したinteractiveな塗り分け地図をRのパッケージ`leaflet`を利用して描く．
 
 流れは以下：
 1. 日本都道府県地図データ(.shape)を[入手する](http://www.gadm.org/download)；
