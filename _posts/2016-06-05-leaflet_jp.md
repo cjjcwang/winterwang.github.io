@@ -41,10 +41,9 @@ leaflet(shape) %>% addTiles() %>%
   setView( 137, 36, zoom = 5) 
 ```
 
-<!--html_preserve--><div id="htmlwidget-5628" style="width:864px;height:768px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-5628">{"x":{"calls":[{"method":"addTiles","args":["http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"maxNativeZoom":null,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"continuousWorld":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":null,"unloadInvisibleTiles":null,"updateWhenIdle":null,"detectRetina":false,"reuseTiles":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap\u003c/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA\u003c/a>"}]}],"setView":[[36,137],5,[]]},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
-
-
+<iframe chart_1="" height="500" width="800" id="iframe-" class="rChart datamaps " seamless="" scrolling="no" src="
+/fig/jpmap.html
+"></iframe>
 
 
 ### 人口動態データのダウロード：
