@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Presentations|発表資料
+title:  Presentations/発表資料
 comments: true
 ---
 

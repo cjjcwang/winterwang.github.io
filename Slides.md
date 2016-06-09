@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Lecture|講義資料
+title:  Lecture/講義資料
 comments: true
 ---
 
