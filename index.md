@@ -1,11 +1,6 @@
 
 ---
 layout: default
-og:
-  image: 'michael-lanyon-bio-photo.jpg'
-  type: 'image/jpeg'
-  width: '400'
-  height: '400'
 ---
 
 <div id="home">
