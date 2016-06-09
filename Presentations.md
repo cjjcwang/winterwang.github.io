@@ -4,21 +4,27 @@ title:  Presentations|発表資料
 comments: true
 ---
 
+## 2016 
 
-
-#### 会議発表 (Conferences)
-* [平成27年度(2015)加藤班第2回班会議, Comparison of Urine _H.pylor_ Antibody Test Methods-Urinelisa and Rapirun](http://rpubs.com/winterwang/sapporo)
-
-* **平成27年度(2015)疫学懇話会発表**: [self-intro](http://winterwang.github.io/epi-forum/#1); [CRP-Diabetes](http://rpubs.com/winterwang/epi-forum-2); [Family history-Diabetes](http://rpubs.com/winterwang/epi-forum-3)
-
-* **平成25年(2013)**
-    + [第72回日本公衆衛生学会総会](http://www.c-linkage.co.jp/jsph72/index.html) 三重，津  <br>10月23日〜25日，<br>[P-0103-9](http://winterwang.github.io/files/Seaweed_thyroid.pdf), <br>[抄録](http://winterwang.github.io/files/Seaweed_abstract.pdf)． | [The 72th Annual Meeting of Japanese Society of Public Health](http://www.c-linkage.co.jp/jsph72/index.html), Mie, Tsu <br>23~25$^{th}$ Oct. <br> [P-0103-9](http://winterwang.github.io/files/Seaweed_thyroid.pdf),<br> [Abstract](http://winterwang.github.io/files/Seaweed_abstract.pdf).    
+| Conference  | Place         |  Date             | Content                         | Type           |  Slides                | Data |
+|:-------------------:|:-------------:|:-----------------:|:------------------------------------:|:--------------:|:----------------:|------|
+|加藤班会議  　　　   | Sapporo, Japan| 15~16$^{th}$ Jan. | Comparison of Urinelisa and Rapirun  | Oral  |[Link](http://rpubs.com/winterwang/sapporo)||
+|[日本疫学会](http://jeaweb.jp/)学術総会, JEA|Yonago,Japan| 21-23$^{th}$ Jan | Milk and stroke risk| Poster  |[P1-027](http://winterwang.github.io/files/2016_JEA_Milk_stroke.html)| [Abstract](http://winterwang.github.io/files/2016_JEA_Milk_stroke.pdf)|
 
 
 
-### **English:**
+## 2015
 
-#### 会議発表(Conferences)
+| Name of Conference  | Place          |  Date          | Content                              | Type           |  Slides                | Data|
+|:-------------------:|:--------------:|:--------------:|:------------------------------------:|:--------------:|:----------------------:|------|
+|疫学懇話会  　　　   | Nagakute, Japan| 14$^{th}$  Sep.| Epidemiological Forum in Nagoya      | Oral| [1](http://winterwang.github.io/epi-forum/#1); [2](http://rpubs.com/winterwang/epi-forum-2); [3](http://rpubs.com/winterwang/epi-forum-3)||
 
-* **[日本疫学会](http://jeaweb.jp/)学術総会<br>　Annual Scientific Meetings of the Japan Epidemiological Association**
-    + [第26回](http://jeaweb.jp/activities/annual_meetings/no26/index.html)，鳥取，米子，<br>2016年1月21日〜23日，<br>[P1-027](http://winterwang.github.io/files/2016_JEA_Milk_stroke.html)，[抄録](http://winterwang.github.io/files/2016_JEA_Milk_stroke.pdf) | [26th](http://jeaweb.jp/activities/annual_meetings/no26/index.html), Tottori, Yonago,<br> 21-23$^{th}$.Jan.2016,<br> [P1-027](http://winterwang.github.io/files/2016_JEA_Milk_stroke.html), [Abstract](http://winterwang.github.io/files/2016_JEA_Milk_stroke.pdf)
+
+
+## 2013 
+| Name of Conference  | Place          |  Date          | Content                              | Type           |  Slides                | Data|
+|:-------------------:|:--------------:|:--------------:|:------------------------------------:|:--------------:|:----------------------:|------|
+|[第72回日本公衆衛生学会総会](http://www.c-linkage.co.jp/jsph72/index.html) | Tsu, Japan| 23~25$^{th}$ Oct.| Seaweed intake and thyroid cancer| Poster| [P-0103-9](http://winterwang.github.io/files/Seaweed_thyroid.pdf)|[Abstract](http://winterwang.github.io/files/Seaweed_abstract.pdf)|
+
+
+
