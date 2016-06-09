@@ -24,7 +24,7 @@ comments: true
 
 |Conference  | Place          |  Date          | Content                              | Type           |  Slides                | Data|
 |:-------------------:|:--------------:|:--------------:|:------------------------------------:|:--------------:|:----------------------:|------|
-
+|[20th IEA World Congress of Epidemiology](https://wce.confex.com/wce/2014/webprogram/meeting.html) |Anchorage, USA| 17-21$^{th}$ Aug. | Family history and diabetes| Poster| [P-2199](http://winterwang.github.io/files/2014_IEA.pdf) | [Abstract](https://wce.confex.com/wce/2014/webprogram/Paper2199.html)|
 
 
 ## 2013 
