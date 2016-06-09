@@ -20,7 +20,7 @@ comments: true
 |疫学懇話会  　　　   | Nagakute, Japan| 14$^{th}$  Sep.| Epidemiological Forum in Nagoya      | Oral| [1](http://winterwang.github.io/epi-forum/#1); [2](http://rpubs.com/winterwang/epi-forum-2); [3](http://rpubs.com/winterwang/epi-forum-3)||
 
 
-## 2015
+## 2014
 
 |Conference  | Place          |  Date          | Content                              | Type           |  Slides                | Data|
 |:-------------------:|:--------------:|:--------------:|:------------------------------------:|:--------------:|:----------------------:|------|
@@ -42,5 +42,6 @@ comments: true
 
 ## 2011
 
-|Conference  | Place          |  Date          | Content                              | Type           |  Slides                | Data|
+|Conference           | Place          |  Date          | Content                              | Type           |  Slides                | Data |
 |:-------------------:|:--------------:|:--------------:|:------------------------------------:|:--------------:|:----------------------:|------|
+|[日本疫学会](http://jeaweb.jp/)学術総会, JEA|Sapporo, Japan| 21-22$^{th}$ Jan | $\omega$-3 PUFA and liver fat content| Poster| [PP1-056](http://winterwang.github.io/files/2011_JEA_Sapporo.pdf) | [Abstract](http://winterwang.github.io/files/2011_JEA_PUFA.pdf)|
