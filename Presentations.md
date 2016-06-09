@@ -46,3 +46,4 @@ comments: true
 |Conference           | Place          |  Date          | Content                              | Type           |  Slides                | Data |
 |:-------------------:|:--------------:|:--------------:|:------------------------------------:|:--------------:|:----------------------:|------|
 |[日本疫学会](http://jeaweb.jp/)学術総会, JEA|Sapporo, Japan| 21-22$^{th}$ Jan | $\omega$-3 PUFA and liver fat content| Poster| [PP1-056](http://winterwang.github.io/files/2011_JEA_Sapporo.pdf) | [Abstract](http://winterwang.github.io/files/2011_JEA_PUFA.pdf)|
+|[The 9th International Symposium on In Vivo Body Composition Studies](https://db.tt/uUbmD6bw), IBC-2011 |Hangzhou, China| 21-24$^{th}$ May | C3 and liver fat content| Poster| [P-24](http://winterwang.github.io/files/2011_Hangzhou_C3.pdf) | [Abstract](http://winterwang.github.io/files/2011_Hangzhou_abstract.pdf)|
