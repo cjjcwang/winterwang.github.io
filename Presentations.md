@@ -15,16 +15,17 @@ comments: true
 
 ## 2015
 
-| Name of Conference  | Place          |  Date          | Content                              | Type           |  Slides                | Data|
+|Conference  | Place          |  Date          | Content                              | Type           |  Slides                | Data|
 |:-------------------:|:--------------:|:--------------:|:------------------------------------:|:--------------:|:----------------------:|------|
 |疫学懇話会  　　　   | Nagakute, Japan| 14$^{th}$  Sep.| Epidemiological Forum in Nagoya      | Oral| [1](http://winterwang.github.io/epi-forum/#1); [2](http://rpubs.com/winterwang/epi-forum-2); [3](http://rpubs.com/winterwang/epi-forum-3)||
 
 
 
 ## 2013 
-| Name of Conference  | Place          |  Date          | Content                              | Type           |  Slides                | Data|
+
+| Conference  | Place          |  Date          | Content                              | Type           |  Slides                | Data|
 |:-------------------:|:--------------:|:--------------:|:------------------------------------:|:--------------:|:----------------------:|------|
-|[第72回日本公衆衛生学会総会](http://www.c-linkage.co.jp/jsph72/index.html) | Tsu, Japan| 23~25$^{th}$ Oct.| Seaweed intake and thyroid cancer| Poster| [P-0103-9](http://winterwang.github.io/files/Seaweed_thyroid.pdf)|[Abstract](http://winterwang.github.io/files/Seaweed_abstract.pdf)|
+|[日本公衆衛生学会総会](http://www.c-linkage.co.jp/jsph72/index.html) | Tsu, Japan| 23~25$^{th}$ Oct.| Seaweed intake and thyroid cancer| Poster| [P-0103-9](http://winterwang.github.io/files/Seaweed_thyroid.pdf)|[Abstract](http://winterwang.github.io/files/Seaweed_abstract.pdf)|
 
 
 
