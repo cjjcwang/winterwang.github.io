@@ -38,6 +38,7 @@ comments: true
 
 |Conference  | Place          |  Date          | Content                              | Type           |  Slides                | Data|
 |:-------------------:|:--------------:|:--------------:|:------------------------------------:|:--------------:|:----------------------:|------|
+|[日本疫学会](http://jeaweb.jp/)学術総会, JEA|Tokyo, Japan| 26-28$^{th}$ Jan | CRP and Diabetes| Poster| [P2-063](http://winterwang.github.io/files/2012_JEA_CRP.pdf) | [Abstract](http://winterwang.github.io/files/2012_JEA_abstract.pdf)
 
 
 ## 2011
