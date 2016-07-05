@@ -8,7 +8,8 @@ comments: true
 
 | Conference  | Place         |  Date             | Content                         | Type           |  Slides                | Data |
 |:-------------------:|:-------------:|:-----------------:|:------------------------------------:|:--------------:|:----------------:|------|
-|加藤班会議  　　　   | Sapporo, Japan| 15~16$^{th}$ Jan. | Comparison of Urinelisa and Rapirun  | Oral  |[Link](http://rpubs.com/winterwang/sapporo)||
+|[日本ヘリコバクター学会](http://www.jshr.jp/)|Beppu, Oita| 24-26$^{th}$ June| Safety of Metronidazole| Oral | [Link](winterwang.github.io/metronidazolle)||
+|加藤班会議  　　　   | Sapporo, Hokkaido| 15~16$^{th}$ Jan. | Comparison of Urinelisa and Rapirun  | Oral  |[Link](http://rpubs.com/winterwang/sapporo)||
 |[日本疫学会](http://jeaweb.jp/)学術総会, JEA|Yonago,Japan| 21-23$^{th}$ Jan | Milk and stroke risk| Poster  |[P1-027](http://winterwang.github.io/files/2016_JEA_Milk_stroke.html)| [Abstract](http://winterwang.github.io/files/2016_JEA_Milk_stroke.pdf)|
 
 

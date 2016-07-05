@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  Recent works/最近在做的
+title:  Recent interests/schedule
 comments: true
 ---
-1. [Preparation for Japan Helicobacter conference](http://winterwang.github.io/metronidazole/)
-     + It's about the use of metronidazole in the _H.pylori_ eradication in Japanese children and adolescents. 
-2. Paper about hypertension and its association with body mass index in Palau. (Submitted to J Epidemiol). 
-3. Paper about drinking milk and risk of stroke mortality in JACC study. (Still in draft)
+1. Paper about hypertension and its association with body mass index in Palau. (Submitted to J Epidemiol). 
+2. Paper about drinking milk and risk of stroke mortality in JACC study. (Still in draft)
+3. Will attend 1st Gast Summit Japan in Sapporo on 16$^{th}$ July, 2016.
+4. Busy teaching students to learn ggplot2 and [drawing age-period-cohort-graphs](https://github.com/winterwang/Social-Epi).
