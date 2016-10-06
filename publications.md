@@ -43,3 +43,4 @@ style: |
 
 10. ***Wang C***, Yatsuya H, Tamakoshi K, Toyoshima H, Wada K, Li Y, et al. Association between parental history of diabetes and the incidence of type 2 diabetes mellitus differs according to the sex of the parent and offspring’s body weight: A finding from a Japanese worksite-based cohort study. Prev Med. 2015;81:49–53. 
 
+11. Sawada T, Nishiyama T, Kikuchi N, ***Wang C***, Lin Y, Mori M, et al. The influence of personality and perceived stress on the development of breast cancer: 20-year follow-up of 29,098 Japanese women. Sci Rep. 2016;6:32559. 
