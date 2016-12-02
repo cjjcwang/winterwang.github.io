@@ -37,10 +37,15 @@ style: |
 
 7. Uemura M, Yatsuya H, Hilawe EH, Li Y, ***Wang C***, Chiang C, et al. Breakfast Skipping is Positively Associated With Incidence of Type 2 Diabetes Mellitus: Evidence From the Aichi Workers’ Cohort Study. J Epidemiol. 2015;25:351–358. 
 
-8. ***Wang C***, Yatsuya H, Li Y, Ota A, Tamakoshi K, Fujino Y, et al. Prospective study of seaweed consumption and thyroid cancer incidence in women: the Japan collaborative cohort study. Eur J Cancer Prev. 2015; 
+8. ***Wang C***, Yatsuya H, Li Y, Ota A, Tamakoshi K, Fujino Y, et al. Prospective study of seaweed consumption and thyroid cancer incidence in women: the Japan collaborative cohort study. Eur J Cancer Prev. 2016; 
 
 9. ***Wang C***, Yatsuya H, Tamakoshi K, Iso H, Tamakoshi A. Milk drinking and mortality: findings from the Japan collaborative cohort study. J Epidemiol. 2015;25:66–73. 
 
 10. ***Wang C***, Yatsuya H, Tamakoshi K, Toyoshima H, Wada K, Li Y, et al. Association between parental history of diabetes and the incidence of type 2 diabetes mellitus differs according to the sex of the parent and offspring’s body weight: A finding from a Japanese worksite-based cohort study. Prev Med. 2015;81:49–53. 
 
 11. Sawada T, Nishiyama T, Kikuchi N, ***Wang C***, Lin Y, Mori M, et al. The influence of personality and perceived stress on the development of breast cancer: 20-year follow-up of 29,098 Japanese women. Sci Rep. 2016;6:32559. 
+
+12. Hilawe, E.H., Chiang, C., Yatsuya, H., ***Wang C***, Ikerdeu, E., et al. 2016. Prevalence and predictors of prediabetes and diabetes among adults in Palau: population-based national STEPS survey. Nagoya J Med Sci 78, 475-483. doi:10.18999/nagjms.78.4.475
+
+13. Lin, Y., Totsuka, Y., Shan, B., ***Wang C***, Wei, W., et al. 2016. Esophageal cancer in high-risk areas of China: research progress and challenges. Ann Epidemiol [Article in Press] doi:10.1016/j.annepidem.2016.11.004
+
